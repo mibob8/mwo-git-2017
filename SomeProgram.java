@@ -7,4 +7,8 @@ public class SomeProgram {
     public void startRocket() {
         // TODOD
     }
+    
+    public void manageTheSatellite() {
+        // TODO implement
+    }
 }
